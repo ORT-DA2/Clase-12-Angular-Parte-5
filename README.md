@@ -76,6 +76,8 @@ Entonces, lo que tenemos que hacer es crear un nuevo proyecto en angular-cli y r
 
 ```ng new nueva-carpeta-de-proyecto```
 
+(En el ejemplo que yo subí, le llamé project-test)
+
 ### 3. Entrar a dicha carpeta:
 
 ```cd nueva-carpeta-de-proyecto```
