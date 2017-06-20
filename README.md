@@ -126,6 +126,8 @@ Ir al ```.angular-cli.json``` y en el array de assets agregar:
 
 Vemos que se generó la carpeta dist
 
+![imagen](doc-img/build.png)
+
 ### 13. Hacemos el deploy en el IIS
 
 Copiamos la carpeta dist, y la llevamos al servidor en el que queramos hacer el deploy de nuestro sitio (particularmente usaremos IIS).
