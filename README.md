@@ -92,8 +92,10 @@ Lo que haremos será copiar la carpeta ```/src``` de nuestro antiguo proyecto y 
 
 ### 7. Si faltan dependencias, como bootstrap y rxjs debemos instalarlos:
 
-```npm install rxjs --save 
-npm install bootstrap@3 --save```
+```
+npm install rxjs --save 
+npm install bootstrap@3 --save
+```
 
 ### 8. Si teníamos estilos referenciados en el index.html (con tags <link>), los llevamos al styles.css:
 
